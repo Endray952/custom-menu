@@ -1,0 +1,31 @@
+#Menu
+	id='1'
+	#Button
+		id='1'
+		name='open submenu'
+		position='200,50,600,100'
+	#EndButton
+	#Button
+		id='2'
+		name='alert dialog'
+		position='200,120,600,220'
+	#EndButton
+	#Button
+		id='3'
+		name='third'
+		position='200,240,600,340'
+	#EndButton
+#EndMenu
+#Menu
+	id='2'
+	#Button
+		id='1'
+		name='alert dialog'
+		position='200,50,600,100'
+	#EndButton
+	#Button
+		id='2'
+		name='back'
+		position='200,120,600,220'
+	#EndButton
+#EndMenu
